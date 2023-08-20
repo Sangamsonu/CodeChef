@@ -1,3 +1,5 @@
+/* https://www.codechef.com/problems/EZSPEAK */
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
